@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "张靖婕"
+  name             : "LinqingLi"
   avatar           : "profile.jpg"
   bio              : "personal page"
-  location         : "Jinan, Shandong Province"
+  location         : "Changsha, Hunan Province"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ZhangJJ26"
+  github           : "linqingliDestinyController"
   google_plus      :
   keybase          :
   instagram        :
