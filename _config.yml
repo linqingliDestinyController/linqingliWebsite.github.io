@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jane's Page"
+title                    : "LinqingLi's Page"
 title_separator          : "-"
-name                     : &name "Jane"
+name                     : &name "LinqingLi"
 description              : &description "personal description"
 url                      : https://zhangjj26.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
