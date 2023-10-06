@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "张靖婕"
+title: "LinqingLi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,13 +9,17 @@ redirect_from:
 ---
 
 ## Education experience
-2020.9-2024.6 Shandong University (SDU), undergraduate student
+2021.9-2023.6 Master of Computer Science</br>
+              Central China Normal University Wollongong Joint Institute, China</br>
+              Academic Performance Ranking: 8/99</br>
 
-2024.8-2028.6 The Chinese University of Hong Kong (CUHK), Ph.D.
+2016.6-2020.9  Bachelor in Software Engineering</br>
+               Beijing City University, China</br>
+               Academic Performance Ranking: 8/200</br>
 
 
 ## Research experience
-To be supplemented.
+2023 
 
 
 ## Honors
