@@ -20,7 +20,9 @@ redirect_from:
 
 ## Research experience
 ### April 2023- October 2023 &nbsp; **Linqing Li** and Zhifeng Wang. **Knowledge Graph Enhanced Intelligent Tutoring System Based on Exercise Representativeness and Informativeness**. *INTERNATIONAL JOURNAL OF INTELLIGENT SYSTEMS*(<font color=Red>Q1</font>, Impact factor:7.2, status: <font color=Red>Accept</font>)
-   &nbsp;* *Related Methods*:Recommendation System, Knowledge Graph, Neural Network, Heterogeneous Graph Neural Network, Congitive Diagnosis Model.
+  * *Related Methods*:Recommendation System, Knowledge Graph, Neural Network, Heterogeneous Graph Neural Network, Congitive Diagnosis Model.
+  * *Aim*: This paper aims to propose a novel intelligenet tutoring system to recommend the personalized exercises to students and define two exercises features,informativess and representativess, to measure the quality of exercises.
+  * *Contribution*:1. 
    
 
 
