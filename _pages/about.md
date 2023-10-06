@@ -17,13 +17,21 @@ redirect_from:
                Beijing City University, China<br>
                Academic Performance: 86<br>
 
-
+## Publications
+* <font color=Red>New!</font> **Linqing Li** and Zhifeng Wang. "Knowledge Graph Enhanced Intelligent Tutoring System Based on Exercise Representativeness and Informativeness". *INTERNATIONAL JOURNAL OF INTELLIGENT SYSTEMS*(<font color=Red>Q1</font>, IF:7.2, status: <font color=Red>Accept</font>)
+* **Linqing Li** and Zhifeng Wang. "Calibrated Q-Matrix-Enhanced Deep Knowledge Tracing with Relational Attention Mechanism". *Applied Sciences*(<font color=Red>Q2</font>, IF:2.8, status: <font color=Red>Publish</font>)[Link](https://www.mdpi.com/2076-3417/13/4/2541)
+* **Linqing Li** and Zhifeng Wang. "Knowledge Relation Rank Enhanced Heterogeneous Learning Interaction Modeling for Neural Graph Forgetting Knowledge Tracing". *Plos One*(<font color=Red>Q2</font>, IF:3.7, status: Under Review)
 ## Research experience
-### <font color=Red>New!</font> April 2023- October 2023 &nbsp; **Linqing Li** and Zhifeng Wang. **Knowledge Graph Enhanced Intelligent Tutoring System Based on Exercise Representativeness and Informativeness**. *INTERNATIONAL JOURNAL OF INTELLIGENT SYSTEMS*
-(<font color=Red>Q1</font>, Impact factor:7.2, status: <font color=Red>Accept</font>)
+### Apr 2023- Oct 2023 &nbsp; Knowledge Graph Enhanced Intelligent Tutoring System Based on Exercise Representativeness and Informativeness.
   * *Related Methods*:Recommendation System, Knowledge Graph, Neural Network, Heterogeneous Graph Neural Network, Congitive Diagnosis Model.
   * *Aim*: This paper aims to propose a novel intelligenet tutoring system to recommend the personalized exercises to students and define two exercises features,informativess and representativess, to measure the quality of exercises.
-  * *Contribution*:(1)a novel graph neural network is applied to generate the exercise node embedding or skill node embedding based on the heterogeneous graph between students, exercises, and skills.(2)Two novel algorithms are designed to transform one dimension knowledge graph into multiple dimension knowledge graph and combine five interpreable skill features to evaluate the skill nodel importance. (3)exercise representativeness and exercise informativenes are introduced to measure the quality of exercises based on the KL-divergency. Then, the intelligent tutoring system recommends the high quality exercises to students based their knowledge proficiency, which is predicted by the cognitive diagnosis model.
+  * *Contribution*:(1)Based on the heterogeneous graph connecting students nodes, exercises nodes, and skills nodes, a novel graph neural network is used to construct the exercise node embedding or skill node embedding. (2)Two unique methods are created to turn a one-dimensional knowledge graph into a multidimensional knowledge graph and combine five interpretable node attributes to determine the importance of a skill node. (3)exercise representativeness and exercise informativeness are developed to assess exercise quality using KL Divergence and node characteristics. The intelligent tutoring system then recommends users with high quality exercises based on their knowledge proficiency, as predicted by the cognitive diagnosis model.
+### Jan 2023- Mar 2023 &nbsp; Calibrated Q-Matrix-Enhanced Deep Knowledge Tracing with Relational Attention Mechanism. 
+
+* *Related Methods*:Recommendation System, Knowledge Graph, Neural Network, Heterogeneous Graph Neural Network, Congitive Diagnosis Model.
+* *Aim*: This paper aims to propose a novel intelligenet tutoring system to recommend the personalized exercises to students and define two exercises features,informativess and representativess, to measure the quality of exercises.
+* *Contribution*:(1)Based on the heterogeneous graph connecting students nodes, exercises nodes, and skills nodes, a novel graph neural network is used to construct the exercise node embedding or skill node embedding. (2)Two unique methods are created to turn a one-dimensional knowledge graph into a multidimensional knowledge graph and combine five interpretable node attributes to determine the importance of a skill node. (3)exercise representativeness and exercise informativeness are developed to assess exercise quality using KL Divergence and node characteristics. The intelligent tutoring system then recommends users with high quality exercises based on their knowledge proficiency, as predicted by the cognitive diagnosis model.
+
 
 
 ## Honors
