@@ -11,18 +11,19 @@ redirect_from:
 ## Education experience
 2021.9-2023.6 Master of Computer Science<br>
               Central China Normal University Wollongong Joint Institute, China<br>
-              Academic Performance:81.2(**Top8%**)<br>
+              Academic Performance: 81.2(**Top8%**)<br>
 
 2016.6-2020.9  Bachelor in Software Engineering<br>
                Beijing City University, China<br>
-               Academic Performance:86<br>
+               Academic Performance: 86<br>
 
 
 ## Research experience
-### April 2023- October 2023 &nbsp; **Linqing Li** and Zhifeng Wang. **Knowledge Graph Enhanced Intelligent Tutoring System Based on Exercise Representativeness and Informativeness**. *INTERNATIONAL JOURNAL OF INTELLIGENT SYSTEMS*(<font color=Red>Q1</font>, Impact factor:7.2, status: <font color=Red>Accept</font>)
+### <font color=Red>New!</font> April 2023- October 2023 &nbsp; **Linqing Li** and Zhifeng Wang. **Knowledge Graph Enhanced Intelligent Tutoring System Based on Exercise Representativeness and Informativeness**. *INTERNATIONAL JOURNAL OF INTELLIGENT SYSTEMS*(<font color=Red>Q1</font>, Impact factor:7.2, status: <font color=Red>Accept</font>)
   * *Related Methods*:Recommendation System, Knowledge Graph, Neural Network, Heterogeneous Graph Neural Network, Congitive Diagnosis Model.
   * *Aim*: This paper aims to propose a novel intelligenet tutoring system to recommend the personalized exercises to students and define two exercises features,informativess and representativess, to measure the quality of exercises.
-  * *Contribution*:1. 
+  * *Contribution*:1. The heterogeneous graphs between the students, exercises, and skills are explored to generate the correpsonding exercises relation matrics and skill relation matrics. Then, the graph neural network is applied to generate the exercise node embedding or skill node embedding by treating the exercise relation matrics or skill relation matrics as adjacency matrics.
+    2.  Two novel algorithms are designed including the knowledge points path extraction alogrithm and knowledge importance weight algorithm to evalute the importance of skills. Specifically, the knowledge points extraction alogrithm aims to transform one dimension knowledge graph into multiple dimension knowledge graph and explore the two types of relations between the knowledge graph: inter-class and intra-class. And, the knowledge importance weight algorithm combines five interpreable skill features based on the multiple dimension knowledge graph with weighted methods to generate the importance of skills. 3. Two innovative exercise feature metrics are introduced to measure the quality of exercises containing the exercise representativeness and exercise informativeness.
    
 
 
