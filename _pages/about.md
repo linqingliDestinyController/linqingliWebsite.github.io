@@ -19,8 +19,8 @@ redirect_from:
 
 
 ## Research experience
-* 2023.4.1-2023.10.6  **Linqing Li** and Zhifeng Wang. **Knowledge Graph Enhanced Intelligent Tutoring System Based on Exercise Representativeness and Informativeness**. *INTERNATIONAL JOURNAL OF INTELLIGENT SYSTEMS*(<font color=blue>Q1</font>, Impact factor:7.2, status: <font color=Red>Accept</font>
-<font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font>)
+* 2023.4.1-2023.10.6 &nbsp; **Linqing Li** and Zhifeng Wang. **Knowledge Graph Enhanced Intelligent Tutoring System Based on Exercise Representativeness and Informativeness**. *INTERNATIONAL JOURNAL OF INTELLIGENT SYSTEMS*(<font color=Red>**Q1**</font>, Impact factor:7.2, status: <font color=Red>**Accept**</font>)
+  KeyWords:Recommendation system, neural network, graph neural network, congitive diagnosis model, 
 
 
 ## Honors
