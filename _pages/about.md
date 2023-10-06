@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 ## Education experience
-2021.9-2023.6 Master of Computer Science</br>
-              Central China Normal University Wollongong Joint Institute, China</br>
-              Academic Performance Ranking: 8/99</br>
+2021.9-2023.6 Master of Computer Science<br>
+              Central China Normal University Wollongong Joint Institute, China<br>
+              Academic Performance Ranking: 8/99<br>
 
 2016.6-2020.9  Bachelor in Software Engineering</br>
                Beijing City University, China</br>
