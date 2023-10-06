@@ -19,7 +19,7 @@ redirect_from:
 
 
 ## Research experience
-* 2023.4.1-2023.10.6  **Knowledge Graph Enhanced Intelligent Tutoring System Based on Exercise Representativeness and Informativeness**. *International Journal of Intelligent System*(<font color=Red>Q1</font>, Impact factor:8.9, status: <font color=Red>Accept</font>，$\color{#FF0000}{红}$ )
+* 2023.4.1-2023.10.6  **Linqing Li** and Zhifeng Wang. **Knowledge Graph Enhanced Intelligent Tutoring System Based on Exercise Representativeness and Informativeness**. *INTERNATIONAL JOURNAL OF INTELLIGENT SYSTEMS*(<font color=blue>Q1</font>, Impact factor:7.2, status: <font color=Red>Accept</font>)
 
 
 ## Honors
