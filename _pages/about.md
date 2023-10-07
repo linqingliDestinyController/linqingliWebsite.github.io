@@ -9,13 +9,15 @@ redirect_from:
 ---
 
 ## Education experience
-2021.9-2023.6 Master of Computer Science<br>
-              Central China Normal University Wollongong Joint Institute, China<br>
-              Academic Performance: 81.2(**Top8%**)<br>
 
-2016.6-2020.9  Bachelor in Software Engineering<br>
-               Beijing City University, China<br>
-               Academic Performance: 86<br>
+### Central China Normal University, China
+Sep 2021 - June 2023, Master of Computer Science, Academic Performance: 81.2(**Top8%**)
+
+### University of Wollongong, Australia
+Sep 2021 - June 2023, Master of Computer Science
+
+### Beijing City University
+Sep 2016 - June 2020, Bachelor in Software Engineering, Academic Performance: 86
 
 ## Publications
 * **Linqing Li** and Zhifeng Wang. "Knowledge Graph Enhanced Intelligent Tutoring System Based on Exercise Representativeness and Informativeness". *INTERNATIONAL JOURNAL OF INTELLIGENT SYSTEMS*(<font color=Red>Q1</font>, IF:7.2, status: <font color=Red>Accept</font>)
