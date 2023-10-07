@@ -55,9 +55,9 @@ Sep 2016 - June 2020, Bachelor in Software Engineering, Academic Performance: 86
 
 ## Technical skills
 
-**Programming**: Python, R, SQL, JavaScript.
-**Drawing**: Office, Echart,  Adobe Acrobat DC.
-**Writing**: Latex, QuillBot, Grammarly.
+**Programming**: Python, R, SQL, JavaScript.<br>
+**Drawing**: Office, Echart,  Adobe Acrobat DC.<br>
+**Writing**: Latex, QuillBot, Grammarly.<br>
 **Language**: Mandarin(Native), IELTS:6.0 .
 
 
