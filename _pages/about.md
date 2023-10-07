@@ -15,7 +15,7 @@ Sep 2021 - June 2023, Master of Computer Science, Academic Performance: 81.2(**T
 **University of Wollongong, Australia**<br>
 Sep 2021 - June 2023, Master of Computer Science<br>
 
-**Beijing City University, china**<br>
+**Beijing City University, China**<br>
 Sep 2016 - June 2020, Bachelor in Software Engineering, Academic Performance: 86
 
 ## Publications
@@ -24,11 +24,10 @@ Sep 2016 - June 2020, Bachelor in Software Engineering, Academic Performance: 86
 * **Linqing Li** and Zhifeng Wang. "Knowledge Relation Rank Enhanced Heterogeneous Learning Interaction Modeling for Neural Graph Forgetting Knowledge Tracing". *Plos One*(<font color=Red>Q2</font>, IF:3.7, status: Under Review)
   
 ## Honors
-<div style="font-size:14px">Oct 2022 <span style="center">Outstanding Student</span><span style="float:right">Top 5%</span></div>
-Oct 2022 Outstanding Student **Top 5%**<br>
-<span style='font-size:14px'>June 2022 WollongongFullScholarshipAward **Top5%**</span><br>
-<span style='font-size:14px'>June 2021 WollongongHalfScholarshipAward **Top10%**</span><br>
-<span style='font-size:14px'>Dec 2019 Second-class Academic Scholarship **Top10%**</span><br>
+<div style="font-size:14px">Oct 2022 Outstanding Student<span style="float:right">Top 5%</span></div>
+<div style="font-size:14px">June 2022 WollongongFullScholarshipAward<span style="float:right">Top 5%</span></div>
+<div style="font-size:14px">June 2021 WollongongHalfScholarshipAward<span style="float:right">Top 10%</span></div>
+<div style="font-size:14px">Dec 2019 Second-class Academic Scholarship<span style="float:right">Top 10%</span></div>
 <span style='font-size:14px'>Dec 2019 Moral, Intellectual and Physical Star</span><br>
 
 
