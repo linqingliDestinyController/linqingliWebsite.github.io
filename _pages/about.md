@@ -24,6 +24,7 @@ Sep 2016 - June 2020, Bachelor in Software Engineering, Academic Performance: 86
 * **Linqing Li** and Zhifeng Wang. "Knowledge Relation Rank Enhanced Heterogeneous Learning Interaction Modeling for Neural Graph Forgetting Knowledge Tracing". *Plos One*(<font color=Red>Q2</font>, IF:3.7, status: Under Review)
   
 ## Honors
+<div style="font-size:16px"><span style="float:right">右对齐</span>左对齐 </div>
 Oct 2022 Outstanding Student **Top 5%**<p align="right">诶嘿</p><br>
 <span style='font-size:14px'>June 2022 WollongongFullScholarshipAward **Top5%**<p align="right">诶嘿</p></span><br>
 <span style='font-size:14px'>June 2021 WollongongHalfScholarshipAward **Top10%**</span><br>
