@@ -24,11 +24,11 @@ redirect_from:
   
 ## Honors
 Oct 2022 Outstanding Student **Top 5%**<br>
-<span style='font-size:14px'>June 2022 WollongongFullScholarshipAward **Top5%**</span><br>
+<span style='font-size:14px'>June 2022 WollongongFullScholarshipAward **Top5%**<p align="right">诶嘿</p></span><br>
 <span style='font-size:14px'>June 2021 WollongongHalfScholarshipAward **Top10%**</span><br>
 <span style='font-size:14px'>Dec 2019 Second-class Academic Scholarship **Top10%**</span><br>
 <span style='font-size:14px'>Dec 2019 Moral, Intellectual and Physical Star</span><br>
-<p align="right">诶嘿</p>
+
 
 ## Research experience
 
