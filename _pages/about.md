@@ -10,13 +10,13 @@ redirect_from:
 
 ## Education experience
 
-### Central China Normal University, China
+#### Central China Normal University, China
 Sep 2021 - June 2023, Master of Computer Science, Academic Performance: 81.2(**Top8%**)
 
-### University of Wollongong, Australia
+#### University of Wollongong, Australia
 Sep 2021 - June 2023, Master of Computer Science
 
-### Beijing City University
+#### Beijing City University
 Sep 2016 - June 2020, Bachelor in Software Engineering, Academic Performance: 86
 
 ## Publications
