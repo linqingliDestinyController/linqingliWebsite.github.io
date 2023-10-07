@@ -23,10 +23,10 @@ redirect_from:
 * **Linqing Li** and Zhifeng Wang. "Knowledge Relation Rank Enhanced Heterogeneous Learning Interaction Modeling for Neural Graph Forgetting Knowledge Tracing". *Plos One*(<font color=Red>Q2</font>, IF:3.7, status: Under Review)
   
 ## Honors
-<span style='font-size:14px'>Oct 2022 Outstanding Student <h1 style="text-align:right">Top 5%</h1></span><br>
-<span style='font-size:14px'>June 2022 WollongongFullScholarshipAward Top5%</span><br>
-<span style='font-size:14px'>June 2021 WollongongHalfScholarshipAward Top10%</span><br>
-<span style='font-size:14px'>Dec 2019 Second-class Academic Scholarship Top10%</span><br>
+Oct 2022 Outstanding Student **Top 5%**<br>
+<span style='font-size:14px'>June 2022 WollongongFullScholarshipAward **Top5%**</span><br>
+<span style='font-size:14px'>June 2021 WollongongHalfScholarshipAward **Top10%**</span><br>
+<span style='font-size:14px'>Dec 2019 Second-class Academic Scholarship **Top10%**</span><br>
 <span style='font-size:14px'>Dec 2019 Moral, Intellectual and Physical Star</span>
 
 ## Research experience
