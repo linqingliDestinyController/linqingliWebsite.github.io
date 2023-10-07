@@ -25,10 +25,14 @@ Sep 2016 - June 2020, Bachelor in Software Engineering, Academic Performance: 86
   
 ## Honors
 <div style="font-size:14px">Oct 2022 Outstanding Student<span style="float:right">Top 5%</span></div>
+
 <div style="font-size:14px">June 2022 WollongongFullScholarshipAward<span style="float:right">Top 5%</span></div>
+
 <div style="font-size:14px">June 2021 WollongongHalfScholarshipAward<span style="float:right">Top 10%</span></div>
+
 <div style="font-size:14px">Dec 2019 Second-class Academic Scholarship<span style="float:right">Top 10%</span></div>
-<span style='font-size:14px'>Dec 2019 Moral, Intellectual and Physical Star</span><br>
+
+<span style='font-size:14px'>Dec 2019 Moral, Intellectual and Physical Star</span>
 
 
 ## Research experience
