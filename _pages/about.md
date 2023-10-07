@@ -22,12 +22,14 @@ redirect_from:
 * **Linqing Li** and Zhifeng Wang. "Calibrated Q-Matrix-Enhanced Deep Knowledge Tracing with Relational Attention Mechanism". *Applied Sciences*(<font color=Red>Q2</font>, IF:2.8, status: <font color=Red>Publish</font>)[Link](https://www.mdpi.com/2076-3417/13/4/2541)
 * **Linqing Li** and Zhifeng Wang. "Knowledge Relation Rank Enhanced Heterogeneous Learning Interaction Modeling for Neural Graph Forgetting Knowledge Tracing". *Plos One*(<font color=Red>Q2</font>, IF:3.7, status: Under Review)
 ## Honors
-<span style='font-size:14px'>Oct 2022 Outstanding Student Top 5%</span>
-<span style='font-size:14px'>June 2022 WollongongFullScholarshipAward Top5%</span>
-<span style='font-size:14px'>June 2021 WollongongHalfScholarshipAward Top10%</span>
-<span style='font-size:14px'>Dec 2019 Second-class Academic Scholarship Top10%</span>
+<span style='font-size:14px'>Oct 2022 Outstanding Student Top 5%</span><br>
+<span style='font-size:14px'>June 2022 WollongongFullScholarshipAward Top5%</span><br>
+<span style='font-size:14px'>June 2021 WollongongHalfScholarshipAward Top10%</span><br>
+<span style='font-size:14px'>Dec 2019 Second-class Academic Scholarship Top10%</span><br>
 <span style='font-size:14px'>Dec 2019 Moral, Intellectual and Physical Star</span>
+
 ## Research experience
+
 ### Apr 2023- Oct 2023 Knowledge Graph Enhanced Intelligent Tutoring System Based on Exercise Representativeness and Informativeness.
   * *Related Methods*:Recommendation System, Knowledge Graph, Neural Network, Heterogeneous Graph Neural Network, Congitive Diagnosis Model.
   * *Aim*: This paper aims to propose a novel intelligenet tutoring system to recommend the personalized exercises to students and define two exercises features,informativess and representativess, to measure the quality of exercises.
