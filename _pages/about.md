@@ -19,9 +19,9 @@ Sep 2021 - June 2023, Master of Computer Science<br>
 Sep 2016 - June 2020, Bachelor in Software Engineering, Academic Performance: 3.4/4
 
 ## Publications
-* <font color = red>New!</font> Linqing Li and Zhifeng Wang. "Knowledge Graph Enhanced Intelligent Tutoring System Based on Exercise Representativeness and Informativeness". *INTERNATIONAL JOURNAL OF INTELLIGENT SYSTEMS*(<font color=Red>Q1</font>, IF:7.2, status: <font color=Red>Accepted</font> in 3th Oct 2023)
-* **Linqing Li** and Zhifeng Wang. "Calibrated Q-Matrix-Enhanced Deep Knowledge Tracing with Relational Attention Mechanism". *Applied Sciences*(<font color=Red>Q2</font>, IF:2.8, status: <font color=Red>Publish</font>)[[Link](https://www.mdpi.com/2076-3417/13/4/2541)]
-* **Linqing Li** and Zhifeng Wang. "Knowledge Relation Rank Enhanced Heterogeneous Learning Interaction Modeling for Neural Graph Forgetting Knowledge Tracing". *Plos One*(<font color=Red>Q2</font>, IF:3.7, status: Under Review)
+[1] <font color = red>New!</font> **Linqing Li** and Zhifeng Wang. "Knowledge Graph Enhanced Intelligent Tutoring System Based on Exercise Representativeness and Informativeness". *INTERNATIONAL JOURNAL OF INTELLIGENT SYSTEMS*(<font color=Red>Q1</font>, IF:7.2, status: <font color=Red>Accepted</font> in 3th Oct 2023)
+[2] **Linqing Li** and Zhifeng Wang. "Calibrated Q-Matrix-Enhanced Deep Knowledge Tracing with Relational Attention Mechanism". *Applied Sciences*(<font color=Red>Q2</font>, IF:2.8, status: <font color=Red>Publish</font>)[[Link](https://www.mdpi.com/2076-3417/13/4/2541)]
+[3] **Linqing Li** and Zhifeng Wang. "Knowledge Relation Rank Enhanced Heterogeneous Learning Interaction Modeling for Neural Graph Forgetting Knowledge Tracing". *Plos One*(<font color=Red>Q2</font>, IF:3.7, status: Under Review)
   
 ## Honors
 <div style="font-size:14px">Oct 2022 Outstanding Student<span style="float:right">Top 5%</span></div>
