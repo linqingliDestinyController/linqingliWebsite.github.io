@@ -19,7 +19,7 @@ Sep 2021 - June 2023, Master of Computer Science<br>
 Sep 2016 - June 2020, Bachelor in Software Engineering, Academic Performance: 3.4/4
 
 ## Publications
-[1] <font color = red>New!</font> **Linqing Li** and Zhifeng Wang. "Knowledge Graph Enhanced Intelligent Tutoring System Based on Exercise Representativeness and Informativeness". *INTERNATIONAL JOURNAL OF INTELLIGENT SYSTEMS*(<font color=Red>Q1</font>, IF:7.2, status: <font color=Red>Accepted</font> in 3th Oct 2023)<br>
+[1] <font color = red>New!</font> **Linqing Li** and Zhifeng Wang. "Knowledge Graph Enhanced Intelligent Tutoring System Based on Exercise Representativeness and Informativeness". *INTERNATIONAL JOURNAL OF INTELLIGENT SYSTEMS*(<font color=Red>Q1</font>, IF:7.2, status: <font color=Red>Accepted</font> on 3th Oct 2023)<br>
 [2] **Linqing Li** and Zhifeng Wang. "Calibrated Q-Matrix-Enhanced Deep Knowledge Tracing with Relational Attention Mechanism". *Applied Sciences 2023*(<font color=Red>Q2</font>, IF:2.8, status: <font color=Red>Publish</font>)[[Link](https://www.mdpi.com/2076-3417/13/4/2541)]<br>
 [3] **Linqing Li** and Zhifeng Wang. "Knowledge Relation Rank Enhanced Heterogeneous Learning Interaction Modeling for Neural Graph Forgetting Knowledge Tracing". *Plos One 2023*(<font color=Red>Q2</font>, IF:3.7, status: Under Review)
   
@@ -42,7 +42,7 @@ Sep 2016 - June 2020, Bachelor in Software Engineering, Academic Performance: 3.
 ### Jan 2023- Mar 2023 Knowledge Relation Rank Enhanced Heterogeneous Learning Interaction Modeling for Neural Graph Forgetting Knowledge Tracing. 
   * *Related Methods*: Attention Mechanism, Heterogeneous graph, Neural Network, Knowledge Tracing Model.
   * *Aim*: This paper aims to propose a novel knowledge tracing model to estimate the knowledge state of students considering the skill relation matrix and exercise relation matrix.
-  * *Contribution*:(1) A calibrated approach is proposed for evaluating the relevance of skills or exercises and constructing the calibrated skill relation matrix and exercise relation matrix. (2) An exercise feature modeling method is proposed to estimate exercise features in order to develop the final exercise embedding based on the graph neural network and exercise difficulty. (3) A unique attention mechanism is created to predict student performance by assessing the relative distance between input elements and modeling students' forgetting behavior.
+  * *Contribution*:(1) A calibrated approach is proposed for evaluating the relevance of skills or exercises and constructing the calibrated skill relation matrix and exercise relation matrix. (2) An exercise feature modeling method is proposed to estimate exercise features in order to develop the final exercise embedding based on the graph neural network and exercise difficulty. (3) An unique attention mechanism is created to predict student performance by assessing the relative distance between input elements and modeling students' forgetting behavior.
 
 ### Dec 2022- Feb 2023 Calibrated Q-Matrix-Enhanced Deep Knowledge Tracing with Relational Attention Mechanism. 
   * *Related Methods*: Attention Mechanism, Knowledge Tracing, Feature Modeling.
