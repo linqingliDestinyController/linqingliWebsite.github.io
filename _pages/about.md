@@ -35,21 +35,20 @@ Sep 2016 - June 2020, Bachelor in Software Engineering, Academic Performance: 3.
 ## Research experience
 
 ### Apr 2023- Oct 2023 Knowledge Graph Enhanced Intelligent Tutoring System Based on Exercise Representativeness and Informativeness.
-  * *Related Methods*:Recommendation System, Knowledge Graph, Neural Network, Heterogeneous Graph Neural Network, Personalized Student Model.
-  * *Aim*: This paper aims to propose a novel intelligent tutoring system to recommend personalized exercises to students and define two exercise features, informativeness, and representativeness, to measure the quality of exercises.
-  * *Contribution*:(1)Based on the heterogeneous graph connecting students nodes, exercises nodes, and skills nodes, a novel graph neural network is used to construct the exercise node embedding or skill node embedding. (2)Two unique methods are created to turn a one-dimensional knowledge graph into a multidimensional knowledge graph and combine five interpretable node attributes to determine the importance of a skill node. (3)Exercise representativeness and exercise informativeness are developed to assess exercise quality using KL Divergence and node characteristics. The intelligent tutoring system then recommends users with high-quality exercises based on the student model.
+  * *Related Methods*: Adaptive Recommender System, Knowledge Graph, Neural Network, Heterogeneous Graph Neural Network, Personalized Learner Model.
+  * *Aim*: This paper aims to propose a novel adaptive recommender system to recommend personalized exercises to learners and define two exercise node features to measure the quality of exercise nodes.
+  * *Contribution*: (1) Based on the heterogeneous graph connecting learners nodes, exercises nodes, and skills nodes, a novel graph neural network is used to construct the exercise node embedding or skill node embedding. (2) Two methods are created to turn a one-dimensional knowledge graph into a multidimensional knowledge graph and combine five interpretable node attributes to determine the importance of a skill node. (3)The adaptive recommender system is designed based on two exercise node features and provides learners with high-quality exercises based on a personalized learner model.
+
 
 ### Jan 2023- Mar 2023 Knowledge Relation Rank Enhanced Heterogeneous Learning Interaction Modeling for Neural Graph Forgetting Knowledge Tracing. 
-  * *Related Methods*: Attention Mechanism, Heterogeneous graph, Neural Network, Student Performance Prediction Model.
-  * *Aim*: This paper aims to propose a novel student performance prediction model to model the students by considering the skill relation matrix and exercise relation matrix.
-  * *Contribution*:(1) A calibrated approach is proposed for evaluating the relevance of skills or exercises and constructing the calibrated skill relation matrix and exercise relation matrix. (2) An exercise feature modeling method is proposed to estimate exercise features in order to develop the final exercise embedding based on the graph neural network and exercise difficulty. (3) An unique attention mechanism is created to predict student performance by assessing the relative distance between input elements and modeling students' forgetting behavior.
-
+  * *Related Methods*: Attention Mechanism, Heterogeneous graph, Neural Network, Learner Performance Prediction Model.
+  * *Aim*: This paper aims to propose a novel learner performance prediction model to model the learners by considering the skill relation matrix and exercise relation matrix.
+  * *Contribution*: : (1) A calibrated approach is proposed for evaluating the relevance of skills or exercises and constructing the calibrated skill relation matrix and exercise relation matrix. (2) A feature modeling method is proposed to estimate exercise features and develop the final exercise embedding based on the graph neural network
+and exercise difficulty. (3) A unique attention mechanism is created to predict learner performance by assessing the relative distance between input elements and modeling students' forgetting behavior based on past interactions.
 ### Dec 2022- Feb 2023 Calibrated Q-Matrix-Enhanced Deep Knowledge Tracing with Relational Attention Mechanism. 
-  * *Related Methods*: Attention Mechanism, Student Performance Prediction Model, Feature Modeling.
-  * *Aim*: This paper focuses on designing a student performance prediction model based on the attention mechanism.
-  * *Contribution*:(1) To model the exercises, three types of feature modeling are introduced: exercise relation modeling, student behavior modeling, and forgetting behavior modeling.
-(2) Two types of attention mechanisms are created to process exercise embedding and output prediction results of students.
-
+  * *Related Methods*: Attention Mechanism, Learner Performance Prediction Model, Feature Modeling.
+  * *Aim*: This paper focuses on designing a learner performance prediction model based on the attention mechanism.
+  * *Contribution*: (1) To model the exercises, three types of feature modeling are introduced: exercise relation modeling, learner behavior modeling, and learner forgetting behavior modeling. (2) Two types of attention mechanisms are created to process exercise embedding and output prediction results of learners.
 ## Technical skills
 
 **Programming**: Python, R, SQL, JavaScript.<br>
